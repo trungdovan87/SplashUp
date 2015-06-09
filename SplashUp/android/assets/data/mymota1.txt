@@ -1,0 +1,40 @@
+
+mymota1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background1
+  rotate: false
+  xy: 1, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+tablebg
+  rotate: false
+  xy: 483, 557
+  size: 466, 466
+  orig: 466, 466
+  offset: 0, 0
+  index: -1
+lvlclear
+  rotate: false
+  xy: 483, 279
+  size: 465, 276
+  orig: 465, 276
+  offset: 0, 0
+  index: -1
+lvlclearbg
+  rotate: false
+  xy: 483, 1
+  size: 465, 276
+  orig: 465, 276
+  offset: 0, 0
+  index: -1
+gametitle
+  rotate: false
+  xy: 1, 146
+  size: 220, 75
+  orig: 220, 75
+  offset: 0, 0
+  index: -1

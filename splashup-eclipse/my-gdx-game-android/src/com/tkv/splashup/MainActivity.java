@@ -1,26 +1,18 @@
 package com.tkv.splashup;
 
-import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.nio.ShortBuffer;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import java.util.List;
 import java.util.Random;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import android.R.bool;
-import android.app.AlertDialog;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
-import android.content.pm.ResolveInfo;
 import android.content.pm.Signature;
 import android.graphics.Bitmap;
 import android.net.Uri;
@@ -47,8 +39,6 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.games.Games;
-import com.tkv.splashup.IActivityRequestHandler;
-import com.tkv.splashup.MyGdxGame;
 
 public class MainActivity extends AndroidApplication implements
 		GameHelper.GameHelperListener, IActivityRequestHandler {

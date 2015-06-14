@@ -31,15 +31,17 @@ import android.widget.Toast;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.backends.android.AndroidApplication;
-import com.badlogic.gdx.graphics.GL10;
+import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
+import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Pixmap.Format;
-import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.games.Games;
 import com.tkv.splashup.IActivityRequestHandler;
+import com.tkv.splashup.MyGdxGame;
 
 public class AndroidLauncher extends AndroidApplication implements
 		GameHelper.GameHelperListener, IActivityRequestHandler {
@@ -89,7 +91,8 @@ public class AndroidLauncher extends AndroidApplication implements
 		gameHelper.setup(this);
 
 		// Create the libgdx View
-		View gameView = initializeForView(new MyGdxGame(this), false);
+		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
+		View gameView = initializeForView(new MyGdxGame(this), config);
 
 		// Create and setup the AdMob view
 		adView = new AdView(this);
@@ -175,11 +178,11 @@ public class AndroidLauncher extends AndroidApplication implements
 	}
 
 	public Pixmap getScreenshot(int x, int y, int w, int h, boolean flipY) {
-		Gdx.gl.glPixelStorei(GL10.GL_PACK_ALIGNMENT, 1);
+		Gdx.gl.glPixelStorei(GL20.GL_PACK_ALIGNMENT, 1);
 
 		final Pixmap pixmap = new Pixmap(w, h, Format.RGBA8888);
 		ByteBuffer pixels = pixmap.getPixels();
-		Gdx.gl.glReadPixels(x, y, w, h, GL10.GL_RGBA, GL10.GL_UNSIGNED_BYTE,
+		Gdx.gl.glReadPixels(x, y, w, h, GL20.GL_RGBA, GL20.GL_UNSIGNED_BYTE,
 				pixels);
 
 		final int numBytes = w * h * 4;
@@ -208,8 +211,8 @@ public class AndroidLauncher extends AndroidApplication implements
 		bb.order(ByteOrder.nativeOrder());
 		// any opengl context will do
 
-		Gdx.gl.glReadPixels(0, 0, width, height, GL10.GL_RGBA,
-				GL10.GL_UNSIGNED_BYTE, bb);
+		Gdx.gl.glReadPixels(0, 0, width, height, GL20.GL_RGBA,
+				GL20.GL_UNSIGNED_BYTE, bb);
 		int pixelsBuffer[] = new int[screenshotSize];
 		bb.asIntBuffer().get(pixelsBuffer);
 		bb = null;
@@ -297,7 +300,7 @@ public class AndroidLauncher extends AndroidApplication implements
 	public void onStart() {
 		super.onStart();
 		gameHelper.onStart(this);
-		EasyTracker.getInstance(this).activityStart(this); // Add this method.
+	//	EasyTracker.getInstance(this).activityStart(this); // Add this method.
 
 	}
 
@@ -305,7 +308,7 @@ public class AndroidLauncher extends AndroidApplication implements
 	public void onStop() {
 		super.onStop();
 		gameHelper.onStop();
-		EasyTracker.getInstance(this).activityStop(this);
+	//	EasyTracker.getInstance(this).activityStop(this);
 	}
 
 	@Override

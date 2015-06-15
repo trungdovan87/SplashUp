@@ -34,7 +34,7 @@ import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.graphics.GL10;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Pixmap.Format;
-import com.google.analytics.tracking.android.EasyTracker;
+//import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
@@ -296,7 +296,7 @@ public class MainActivity extends AndroidApplication implements
 	public void onStart() {
 		super.onStart();
 		gameHelper.onStart(this);
-		EasyTracker.getInstance(this).activityStart(this); // Add this method.
+		//EasyTracker.getInstance(this).activityStart(this); // Add this method.
 
 	}
 
@@ -304,7 +304,7 @@ public class MainActivity extends AndroidApplication implements
 	public void onStop() {
 		super.onStop();
 		gameHelper.onStop();
-		EasyTracker.getInstance(this).activityStop(this);
+		//EasyTracker.getInstance(this).activityStop(this);
 	}
 
 	@Override

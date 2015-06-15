@@ -4,38 +4,38 @@ Google Play game services IDs.
 Save this file as res/values/games-ids.xml in your project.
 -->
 <resources>
-  <string name="app_id">857886902312</string>
-  <string name="achievement_explode_6_splash_in_a_row">CgkIqJCt8PsYEAIQBw</string>
-  <string name="achievement_explode_9_splash_in_a_row">CgkIqJCt8PsYEAIQCA</string>
-  <string name="achievement_explode_12_splash_in_a_row">CgkIqJCt8PsYEAIQCQ</string>
-  <string name="achievement_explode_15_splash_in_a_row">CgkIqJCt8PsYEAIQCg</string>
-  <string name="achievement_explode_18_splash_in_a_row">CgkIqJCt8PsYEAIQCw</string>
-  <string name="achievement_explode_21_splash_in_a_row">CgkIqJCt8PsYEAIQDA</string>
-  <string name="achievement_explode_24_splash_in_a_row">CgkIqJCt8PsYEAIQDQ</string>
-  <string name="achievement_explode_27_splash_in_a_row">CgkIqJCt8PsYEAIQDg</string>
-  <string name="achievement_explode_30_splash_in_a_row">CgkIqJCt8PsYEAIQDw</string>
-  <string name="achievement_explode_33_splash_in_a_row">CgkIqJCt8PsYEAIQEA</string>
-  <string name="achievement_explode_36_splash_in_a_row">CgkIqJCt8PsYEAIQEQ</string>
-  <string name="achievement_reach_level_5">CgkIqJCt8PsYEAIQAA</string>
-  <string name="achievement_reach_level_10">CgkIqJCt8PsYEAIQAQ</string>
-  <string name="achievement_reach_level_11">CgkIqJCt8PsYEAIQHQ</string>
-  <string name="achievement_reach_level_12">CgkIqJCt8PsYEAIQHg</string>
-  <string name="achievement_reach_level_13">CgkIqJCt8PsYEAIQEg</string>
-  <string name="achievement_reach_level_14">CgkIqJCt8PsYEAIQEw</string>
-  <string name="achievement_reach_level_15">CgkIqJCt8PsYEAIQAg</string>
-  <string name="achievement_reach_level_16">CgkIqJCt8PsYEAIQFA</string>
-  <string name="achievement_reach_level_17">CgkIqJCt8PsYEAIQFQ</string>
-  <string name="achievement_reach_level_18">CgkIqJCt8PsYEAIQFg</string>
-  <string name="achievement_reach_level_19">CgkIqJCt8PsYEAIQFw</string>
-  <string name="achievement_reach_level_20">CgkIqJCt8PsYEAIQAw</string>
-  <string name="achievement_reach_level_21">CgkIqJCt8PsYEAIQGA</string>
-  <string name="achievement_reach_level_22">CgkIqJCt8PsYEAIQGQ</string>
-  <string name="achievement_reach_level_23">CgkIqJCt8PsYEAIQGg</string>
-  <string name="achievement_reach_level_24">CgkIqJCt8PsYEAIQGw</string>
-  <string name="achievement_reach_level_25">CgkIqJCt8PsYEAIQHA</string>
-  <string name="achievement_reach_level_30">CgkIqJCt8PsYEAIQBA</string>
-  <string name="achievement_full_20_drops">CgkIqJCt8PsYEAIQHw</string>
-  <string name="leaderboard_splash_up">CgkIqJCt8PsYEAIQBQ</string>
+    <string name="app_id">857886902312</string>
+    <string name="achievement_explode_6_splash_in_a_row">CgkIqJCt8PsYEAIQBw</string>
+    <string name="achievement_explode_9_splash_in_a_row">CgkIqJCt8PsYEAIQCA</string>
+    <string name="achievement_explode_12_splash_in_a_row">CgkIqJCt8PsYEAIQCQ</string>
+    <string name="achievement_explode_15_splash_in_a_row">CgkIqJCt8PsYEAIQCg</string>
+    <string name="achievement_explode_18_splash_in_a_row">CgkIqJCt8PsYEAIQCw</string>
+    <string name="achievement_explode_21_splash_in_a_row">CgkIqJCt8PsYEAIQDA</string>
+    <string name="achievement_explode_24_splash_in_a_row">CgkIqJCt8PsYEAIQDQ</string>
+    <string name="achievement_explode_27_splash_in_a_row">CgkIqJCt8PsYEAIQDg</string>
+    <string name="achievement_explode_30_splash_in_a_row">CgkIqJCt8PsYEAIQDw</string>
+    <string name="achievement_explode_33_splash_in_a_row">CgkIqJCt8PsYEAIQEA</string>
+    <string name="achievement_explode_36_splash_in_a_row">CgkIqJCt8PsYEAIQEQ</string>
+    <string name="achievement_reach_level_5">CgkIqJCt8PsYEAIQAA</string>
+    <string name="achievement_reach_level_10">CgkIqJCt8PsYEAIQAQ</string>
+    <string name="achievement_reach_level_11">CgkIqJCt8PsYEAIQHQ</string>
+    <string name="achievement_reach_level_12">CgkIqJCt8PsYEAIQHg</string>
+    <string name="achievement_reach_level_13">CgkIqJCt8PsYEAIQEg</string>
+    <string name="achievement_reach_level_14">CgkIqJCt8PsYEAIQEw</string>
+    <string name="achievement_reach_level_15">CgkIqJCt8PsYEAIQAg</string>
+    <string name="achievement_reach_level_16">CgkIqJCt8PsYEAIQFA</string>
+    <string name="achievement_reach_level_17">CgkIqJCt8PsYEAIQFQ</string>
+    <string name="achievement_reach_level_18">CgkIqJCt8PsYEAIQFg</string>
+    <string name="achievement_reach_level_19">CgkIqJCt8PsYEAIQFw</string>
+    <string name="achievement_reach_level_20">CgkIqJCt8PsYEAIQAw</string>
+    <string name="achievement_reach_level_21">CgkIqJCt8PsYEAIQGA</string>
+    <string name="achievement_reach_level_22">CgkIqJCt8PsYEAIQGQ</string>
+    <string name="achievement_reach_level_23">CgkIqJCt8PsYEAIQGg</string>
+    <string name="achievement_reach_level_24">CgkIqJCt8PsYEAIQGw</string>
+    <string name="achievement_reach_level_25">CgkIqJCt8PsYEAIQHA</string>
+    <string name="achievement_reach_level_30">CgkIqJCt8PsYEAIQBA</string>
+    <string name="achievement_full_20_drops">CgkIqJCt8PsYEAIQHw</string>
+    <string name="leaderboard_splash_up">CgkIqJCt8PsYEAIQBQ</string>
 </resources>
 
 

@@ -8,63 +8,63 @@ import com.tkv.splashup.MyGdxGame;
 
 public class HtmlLauncher extends GwtApplication implements IActivityRequestHandler {
 
-        @Override
-        public GwtApplicationConfiguration getConfig () {
-                return new GwtApplicationConfiguration(480, 320);
-        }
+    @Override
+    public GwtApplicationConfiguration getConfig() {
+        return new GwtApplicationConfiguration(480, 320);
+    }
 
-        @Override
-        public ApplicationListener getApplicationListener () {
-                return new MyGdxGame(this);
-        }
+    @Override
+    public ApplicationListener getApplicationListener() {
+        return new MyGdxGame(this);
+    }
 
-        @Override
-        public void showAds(boolean show) {
+    @Override
+    public void showAds(boolean show) {
 
-        }
+    }
 
-        @Override
-        public void shareFacebook() {
+    @Override
+    public void shareFacebook() {
 
-        }
+    }
 
-        @Override
-        public void shareLink() {
+    @Override
+    public void shareLink() {
 
-        }
+    }
 
-        @Override
-        public void logon() {
+    @Override
+    public void logon() {
 
-        }
+    }
 
-        @Override
-        public void logoff() {
+    @Override
+    public void logoff() {
 
-        }
+    }
 
-        @Override
-        public void showExitMsg() {
+    @Override
+    public void showExitMsg() {
 
-        }
+    }
 
-        @Override
-        public void submitScore(int score, int gamemode) {
+    @Override
+    public void submitScore(int score, int gamemode) {
 
-        }
+    }
 
-        @Override
-        public void showLeaderBoard(int maxScore, int gamemode) {
+    @Override
+    public void showLeaderBoard(int maxScore, int gamemode) {
 
-        }
+    }
 
-        @Override
-        public boolean unlockAchievement(int type, int value) {
-                return false;
-        }
+    @Override
+    public boolean unlockAchievement(int type, int value) {
+        return false;
+    }
 
-        @Override
-        public void showAchievement() {
+    @Override
+    public void showAchievement() {
 
-        }
+    }
 }

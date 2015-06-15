@@ -4,29 +4,26 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.utils.viewport.FitViewport;
-import com.badlogic.gdx.utils.viewport.Viewport;
-import com.tkv.splashup.MyGdxGame;
-import com.tkv.splashup.screens.ScreenEnum;
-import com.tkv.splashup.screens.ScreenManager;
 
-public class HomeStage extends  Stage{
-	 public HomeStage(float width, float height, boolean keepAspecyRatio)
-	    {
-	        //super(width, height, keepAspecyRatio);
-			super(new FitViewport(width, height));
-	    }
-	       
-	 @Override
-	    public boolean touchDown(int x, int y, int pointer, int button) {
+public class HomeStage extends Stage {
+    public HomeStage(float width, float height, boolean keepAspecyRatio) {
+        //super(width, height, keepAspecyRatio);
+        super(new FitViewport(width, height));
+    }
 
-		
-	        return super.touchDown(x, y, pointer, button);
-	    }
-	 @Override public boolean keyDown(final int keycode) {
-	        if (keycode == Keys.BACK) {
-	           // Gdx.app.log("Menu", "Quit");
-	            Gdx.app.exit();
-	        }
-	        return false;
-	    }
+    @Override
+    public boolean touchDown(int x, int y, int pointer, int button) {
+
+
+        return super.touchDown(x, y, pointer, button);
+    }
+
+    @Override
+    public boolean keyDown(final int keycode) {
+        if (keycode == Keys.BACK) {
+            // Gdx.app.log("Menu", "Quit");
+            Gdx.app.exit();
+        }
+        return false;
+    }
 }

@@ -11,8 +11,10 @@ public class Main implements IActivityRequestHandler {
 		LwjglApplicationConfiguration cfg = new LwjglApplicationConfiguration();
 		cfg.title = "Splash Up";
 		cfg.useGL20 = false;
-		cfg.width = 480;
-		cfg.height = 800;
+//		cfg.width = 480;
+//		cfg.height = 800;
+		cfg.width = 1024;
+		cfg.height = 1920;
 		  if (application == null) {
 	            application = new Main();
 	        }

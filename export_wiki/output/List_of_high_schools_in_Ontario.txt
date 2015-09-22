@@ -1,0 +1,648 @@
+42 Stormont
+Central Algoma Secondary School
+Chapleau High School
+Elliot Lake Secondary School
+Hornepayne High School
+Korah Collegiate & Vocational School
+Michipicoten High School
+Missarenda Secondary School
+Prince Charles Secondary School (Sault Ste. Marie)
+Superior Heights Collegiate and Vocational School
+W. C. Eaket Secondary School
+White Pines Collegiate & Vocational School
+École secondaire Carrefour Supérieur-Nord
+École secondaire l'Orée des Bois
+Villa Française des Jeunes
+Holy Angels Learning Centre
+St. Basil Secondary School
+St. Mary's College
+École secondaire catholique Jeunesse-Nord
+École secondaire Notre-Dame-du-Sault
+École secondaire Saint-Joseph
+Brantford Collegiate Institute and Vocational School
+North Park Collegiate and Vocational School
+Paris District High School
+Pauline Johnson Collegiate & Vocational School
+Tollgate Technological Skills Centre
+Assumption College School
+St. John's College
+Bruce Peninsula District School
+Chesley District High School
+Kincardine & District Secondary School
+Peninsula Shores District School
+Saugeen District Secondary School
+Walkerton District Community School
+Sacred Heart High School
+Blenheim District High School
+Chatham-Kent Secondary School
+John McGregor Secondary School
+Lambton-Kent Composite School
+Ridgetown District High School
+Tilbury District High School
+Wallaceburg District Secondary School
+Ursuline College
+École secondaire catholique de Pain Court
+École Secondaire Cochrane High School
+Hearst High School
+Iroquois Falls Secondary School
+Kapuskasing District High School
+Roland Michener Secondary School
+Timmins High and Vocational School
+Northern Lights Secondary School
+Tremblay High and Middle School
+École secondaire l'Alliance
+École Publique Renaissance
+O'Gorman High School
+École catholique Nouveau-Regard
+École secondaire catholique l'Alliance
+École secondaire catholique de Hearst
+École secondaire catholique Cité des Jeunes
+École catholique Georges-Vanier
+École secondaire catholique Thériault
+La Clef
+Centre d'éducation permanente
+Delores D. Echum Composite School
+Centre Dufferin District High School
+Orangeville District Secondary School
+Westside Secondary School
+Ajax High School
+Anderson Collegiate Vocational Institute
+Bowmanville High School
+Brock High School
+Cartwright High School
+Clarington Central Secondary School
+Clarke High School
+Courtice Secondary School
+Donald A Wilson Secondary School
+Dunbarton High School
+Durham Alternative Secondary School
+Eastdale Collegiate and Vocational Institute
+G L Roberts Collegiate and Vocational Institute
+Henry Street High School
+J. Clarke Richardson Collegiate
+Maxwell Heights Secondary School
+O'Neill Collegiate and Vocational Institute
+Oshawa Central Collegiate Institute
+Pickering High School
+Pine Ridge Secondary School
+Port Perry High School
+R S McLaughlin Collegiate and Vocational Institute
+Sinclair Secondary School
+Uxbridge Secondary School
+All Saints Catholic Secondary School
+Archbishop Denis O'Connor Catholic High School
+Father Leo J. Austin Catholic Secondary School
+Holy Trinity Secondary School
+Monsignor John Pereyma Catholic Secondary School
+Monsignor Paul Dwyer Catholic High School
+Notre Dame Catholic Secondary School
+St. Mary Catholic Secondary School
+St. Stephen's Secondary School
+École secondaire catholique Saint-Charles-Garnier
+Arthur Voaden Secondary School
+Central Elgin Collegiate Institute
+Parkside Collegiate Institute
+St. Joseph's Catholic High School
+Belle River District High School
+Century Secondary School
+Essex District High School
+J.L. Forster Secondary School
+General Amherst High School
+Harrow District High School
+W.F. Herman Collegiate Institute
+Kennedy Collegiate Institute
+Kingsville District High School
+Leamington District Secondary School
+Riverside Secondary School
+Sandwich Secondary School
+Vincent Massey Secondary School
+Walkerville Collegiate Institute
+Western Secondary School
+École secondaire Michel-Gratton
+Assumption College School
+Cardinal Carter Catholic High School
+Catholic Central High School
+F. J. Brennan Catholic High School
+Holy Names High School
+Saint Anne Catholic High School
+St. Joseph's Catholic High School
+St. Michael's Alternative High School
+St. Thomas of Villanova Catholic Secondary School
+École secondaire catholique l'Essor
+École secondaire catholique E. J. Lajeunesse
+Bayridge Secondary School
+Frontenac Secondary School
+Kingston Collegiate and Vocational Institute
+La Salle Secondary School
+Loyalist Collegiate and Vocational Institute
+Queen Elizabeth Collegiate and Vocational Institute
+Secondary School of Community Education
+Sharbot Lake High School
+Sydenham High School
+École secondaire publique Mille-Îles
+Holy Cross Catholic Secondary School
+Regiopolis-Notre Dame Catholic Secondary School
+École secondaire catholique Marie-Rivier
+Georgian Bay Secondary School
+Grey Highlands Secondary School
+John Diefenbaker Secondary School
+Owen Sound Collegiate and Vocational Institute
+West Hill Secondary School
+St. Mary's High School
+École secondaire catholique Saint-Dominique-Savio
+Cayuga Secondary School
+Dunnville Secondary School
+Hagersville Secondary School
+McKinnon Park Secondary School
+Haliburton Highlands Secondary School
+Abbey Park High School
+Acton District High School
+Aldershot High School
+Burlington Central High School
+Craig Kielburger Secondary School
+Garth Webb Secondary School
+Georgetown District High School
+Iroquois Ridge High School
+Lester B. Pearson High School
+M.M. Robinson High School
+Milton District High School
+Nelson High School
+Oakville Trafalgar High School
+Robert Bateman High School
+T. A. Blakelock High School
+White Oaks Secondary School
+École secondaire Gaétan Gervais
+Assumption Catholic Secondary School
+Jean Vanier Catholic Secondary School
+Bishop Paul Francis Reding Catholic Secondary School
+Christ the King Catholic Secondary School
+Holy Trinity Catholic Secondary School
+Notre Dame Catholic Secondary School
+St. Ignatius of Loyola Catholic Secondary School
+St. Thomas Aquinas Catholic Secondary School
+Corpus Christi Catholic Secondary School
+Ancaster High School
+Delta Secondary School
+Dundas Valley Secondary School
+Glendale Secondary School
+Mountain Secondary School
+Nora Frances Henderson Secondary School
+Orchard Park Secondary School
+Saltfleet District High School
+Sherwood Secondary School
+Sir Allan MacNab Secondary School
+Sir John A Macdonald Secondary School
+Sir Winston Churchill Secondary School
+Waterdown District High School
+Westdale Secondary School
+Westmount Secondary School
+École secondaire Georges-P.-Vanier
+Bishop Ryan
+Bishop Tonnos
+Cardinal Newman
+Cathedral High School
+St. Jean de Brebeuf Secondary School
+St. Mary Catholic Secondary
+St. Thomas More
+Good Shepherd Hamilton
+École secondaire Académie catholique Mère-Teresa
+Hamilton District Christian High School
+Columbia International College
+Hillfield Strathallan College
+Southern Ontario College
+Bayside Secondary School
+Centennial Secondary School
+Centre Hastings Secondary School
+Moira Secondary School
+North Hastings High School
+Quinte Secondary School
+Trenton High School
+École secondaire publique Marc-Garneau
+Nicholson Catholic College
+St. Theresa Catholic Secondary School
+St. Paul Catholic Secondary School
+Quinte Christian High School
+Central Huron Secondary School
+F.E. Madill Secondary School
+Goderich District Collegiate Institute
+South Huron District High School
+St. Anne's Catholic Secondary School
+Fenelon Falls Secondary School
+I. E. Weldon Secondary School
+Lindsay Collegiate and Vocational Institute
+St. Thomas Aquinas Secondary School
+Beaver Brae Secondary School
+Crolancia Secondary School
+Dryden High School
+Ignace High School
+Northern Eagle High School
+Queen Elizabeth District High School
+Red Lake District High School
+Vezina Secondary School
+St. Thomas Aquinas Secondary School
+Alexander Mackenzie Secondary School
+Lambton Collegiate and Vocational Institute
+North Lambton Secondary School
+Northern Collegiate Institute and Vocational School
+Sarnia Collegiate Institute and Technical School
+St. Clair Secondary School
+École secondaire Franco-Jeunesse
+St. Christopher Catholic Secondary School
+St. Patrick Catholic High School
+École secondaire catholique Saint-François-Xavier
+Almonte and District High School
+Carleton Place High School
+Perth and District Collegiate Institute
+Smiths Falls District Collegiate Institute
+Notre Dame Catholic High School
+St. John Catholic High School
+St. Luke Catholic High School
+Athens District High School
+Brockville Collegiate Institute
+Gananoque Secondary School
+North Grenville District High School
+Rideau District High School
+South Grenville District High School
+Thousand Islands Secondary School
+St. Mary Catholic High School
+St. Michael Catholic High School
+Académie catholique Ange Gabrielle
+Ernestown Secondary School
+Napanee District Secondary School
+North Addington Education Centre (K-12)
+Manitoulin Secondary School
+A.B. Lucas Secondary School
+London Central Secondary School
+Clarke Road Secondary School
+H.B. Beal Secondary School
+London South Collegiate Institute
+Montcalm Secondary School
+Oakridge Secondary School
+Saunders Secondary School
+Sir Frederick Banting Secondary School
+Sir George Ross Secondary School
+Sir Wilfrid Laurier Secondary School
+Thames Secondary School
+Westminster Secondary School
+École secondaire Gabriel-Dumont
+Catholic Central High School
+Holy Cross Catholic Secondary School
+St. Mary's Catholic High School
+John Paul II Catholic Secondary School
+Mother Teresa Catholic Secondary School
+Regina Mundi Catholic College
+St. Thomas Aquinas Catholic Secondary School
+St. Andre Bessette Catholic Secondary School
+École secondaire catholique Monseigneur-Bruyère
+Bracebridge and Muskoka Lakes Secondary School
+Gravenhurst High School
+Huntsville High School
+St. Dominic School
+Delhi District Secondary School
+Port Dover Composite School
+Simcoe Composite School
+Sprucedale Secondary School
+Valley Heights Secondary School
+Waterford District High School
+Holy Trinity Catholic High School
+Campbellford District High School
+Cobourg District Collegiate Institute East
+Cobourg District Collegiate Institute West
+East Northumberland Secondary School
+Port Hope High School
+St. Mary's Secondary School
+A. N. Myer Secondary School
+Beamsville District Secondary School
+DSBN Academy
+Eastdale Secondary School
+Eden High School
+E.L. Crossley Secondary School
+Fort Erie Secondary School
+Governor Simcoe Secondary School
+Grimsby District Secondary School
+Laura Secord Secondary School
+Port Colborne High School
+Ridgeway-Crystal Beach High School
+Sir Winston Churchill Secondary School
+South Lincoln Secondary School
+Stamford Collegiate Secondary School
+St. Catharines Collegiate Secondary School
+Thorold Secondary School
+Welland Centennial Secondary School
+Westlane Secondary School
+École secondaire Confédération
+Blessed Trinity Catholic Secondary School
+Denis Morris Catholic High School
+Holy Cross Catholic Secondary School
+Lakeshore Catholic High School
+Notre Dame College School
+St. Francis Catholic Secondary School
+St. Michael Catholic High School
+St. Paul Catholic High School
+École secondaire catholique Jean-Vanier
+Ridley College
+Chippewa Secondary School
+F.J. McElligott Secondary School
+Laurentian Learning Centre
+Northern Secondary School
+West Ferris Secondary School
+Widdifield Secondary School
+École publique l'Odyssée
+École secondaire publique Northern
+St. Joseph-Scollard Hall Catholic Secondary School
+École secondaire catholique Algonquin
+École secondaire catholique Élisabeth-Bruyère
+École secondaire catholique Franco-Cité
+Annandale School
+College Avenue Secondary School
+Glendale High School
+Huron Park Secondary School
+Woodstock Collegiate Institute
+St. Mary's Catholic High School
+École secondaire catholique Notre-Dame
+Almaguin Highlands Secondary School
+Parry Sound High School
+Applewood Heights Secondary School
+Bramalea Secondary School
+Brampton Centennial Secondary School
+Cawthra Park Secondary School
+Castlebrooke Secondary School
+Central Peel Secondary School
+Chinguacousy Secondary School
+Clarkson Secondary School
+David Suzuki Secondary School
+Erindale Secondary School
+Fletcher's Meadow Secondary School
+Glenforest Secondary School
+Gordon Graydon Memorial Secondary School
+Harold M. Brathwaite Secondary School
+Heart Lake Secondary School
+Humberview Secondary School
+John Fraser Secondary School
+Judith Nyman Secondary School
+Lincoln M. Alexander Secondary School
+Lorne Park Secondary School
+Louise Arbour Secondary School
+Mayfield Secondary School
+Meadowvale Secondary School
+Mississauga Secondary School
+North Park Secondary School
+Port Credit Secondary School
+Rick Hansen Secondary School
+Sandalwood Heights Secondary School
+Stephen Lewis Secondary School
+Streetsville Secondary School
+Thomas L. Kennedy Secondary School
+Turner Fenton Secondary School
+West Credit Secondary School
+The Woodlands School
+Archbishop Romero Catholic Secondary School
+Ascension of Our Lord Secondary School
+Cardinal Ambrozic Secondary School
+Cardinal Leger Secondary School
+Father Michael Goetz Secondary School
+Holy Name of Mary Secondary School
+Iona Catholic Secondary School
+John Cabot Catholic Secondary School
+Loyola Catholic Secondary School
+Notre Dame Catholic Secondary School
+Our Lady of Mount Carmel Secondary School
+Philip Pocock Catholic Secondary School
+Robert F. Hall Catholic Secondary School
+St. Aloysius Gonzaga Secondary School
+St. Augustine Catholic Secondary School
+St. Edmund Campion Secondary School
+St. Francis Xavier Secondary School
+St. Joan of Arc Catholic Secondary School
+St. Joseph's Secondary School
+St. Marcellinius Secondary School
+St. Marguerite d'Youville Secondary School
+St. Martin Secondary School
+St. Michael Catholic Secondary School
+St. Paul Secondary School
+St. Roch Catholic Secondary School
+St. Thomas Aquinas Secondary School
+École secondaire Jeunes sans frontières
+École secondaire catholique Sainte-Famille
+Bronte College
+Listowel District Secondary School
+Mitchell District High School
+St. Marys District Collegiate & Vocational Institute
+Stratford Central Secondary School
+Stratford Northwestern Secondary School
+St. Michael Catholic Secondary School
+Adam Scott Collegiate and Vocational Institute
+Crestwood Secondary School
+Kenner Collegiate Vocational Institute
+Lakefield District Secondary School
+Norwood District High School
+Thomas A. Stewart Secondary School
+Holy Cross Secondary School
+St. Peter's Secondary School
+Rockland District High School
+Russell High School
+Vankleek Hill Collegiate Institute
+École secondaire publique L'Académie de La Seigneurie
+École secondaire publique Le Sommet
+St. Francis Xavier Catholic High School
+St. Thomas Aquinas Catholic High School
+École secondaire catholique Embrun
+École secondaire catholique L'Escale
+École secondaire catholique de Casselman
+École secondaire catholique de Plantagenet
+École secondaire catholique régionale de Hawkesbury
+Prince Edward Collegiate Institute
+Atikokan High School
+Fort Frances High School
+Rainy River High School
+Arnprior District High School
+Fellowes High School
+General Panet High School
+Mackenzie High School
+Madawaska Valley District High School
+Opeongo High School
+Renfrew Collegiate Institute
+École secondaire publique L'Équinoxe
+Bishop Smith Catholic High School
+St. Joseph's Catholic High School
+Centre scolaire catholique Jeanne-Lajoie
+Banting Memorial High School
+Barrie Central Collegiate Institute
+Barrie North Collegiate Institute
+Bear Creek Secondary School
+Bradford District High School
+Collingwood Collegiate Institute
+Eastview Secondary School
+Elmvale District High School
+Innisdale Secondary School
+Midland Secondary School
+Nantyr Shores Secondary School
+Nottawasaga Pines Secondary School
+OD Park High School
+Penetanguishene Secondary School
+Stayner Collegiate Institute
+Twin Lakes Secondary School
+École secondaire Le Caron
+Ecole secondaire Roméo Dallaire
+Holy Trinity School
+Jean Vanier School
+Patrick Fogarty School
+St. Joan of Arc Catholic High School
+St. Joseph's High School
+St. Peter's School
+St. Theresa's School
+St. Thomas Aquinas School
+École secondaire catholique Nouvelle-Alliance
+Charlottenburgh and Lancaster District High School
+Cornwall Collegiate and Vocational School
+Glengarry District High School
+North Dundas District High School
+Rothwell-Osnabruck Secondary School
+Seaway District High School
+St. Lawrence High School
+Tagwi Secondary School
+École secondaire publique L'Héritage
+Holy Trinity Catholic Secondary School
+St. Joseph's Catholic Secondary School
+St. Matthew Catholic Learning Centre
+École secondaire catholique La Citadelle
+École secondaire catholique Le Relais
+Chapleau High School
+Chelmsford Valley District Composite School
+Confederation Secondary School
+Espanola High School
+Lasalle Secondary School
+Lively District Secondary School
+Lo-Ellen Park Secondary School
+Lockerby Composite School
+Sudbury Secondary School
+M W Moore Secondary School
+École Cap sur l'Avenir
+École secondaire de la Rivière-des-Français
+École secondaire Hanmer
+École secondaire Macdonald-Cartier
+Bishop Alexander Carter Catholic Secondary School
+Marymount Academy
+St. Albert Adult Learning Centre
+St. Benedict Catholic Secondary School
+St. Charles College
+Carrefour Options+
+École secondaire catholique Champlain
+École secondaire catholique Franco-Ouest
+École secondaire catholique l'Horizon
+Collège Notre-Dame
+École secondaire du Sacré-Cœur
+École secondaire catholique Trillium
+Geraldton Composite High School
+Hammarskjold High School
+Lake Superior High School
+Manitouwadge High School
+Marathon High School
+Nipigon-Red Rock District High School
+Sir Winston Churchill Collegiate & Vocational Institute
+Superior Collegiate and Vocational Institute
+Westgate Collegiate & Vocational Institute
+École secondaire Château-Jeunesse
+École secondaire Cité-Supérieure
+École secondaire Manitouwadge
+St. Ignatius High School
+St. Patrick High School
+École secondaire catholique de la Vérendrye
+Englehart High School
+Kirkland Lake District Composite School
+Timiskaming District Secondary School
+École catholique Jean-Vanier
+École secondaire catholique Sainte-Marie
+Centre d'éducation des Adultes (New Liskeard)
+Vincent Massey Collegiate Institute Michael Power/St. Joseph High School Michael Power Catholic High School St. Joseph High School
+Michael Power/St. Joseph High School Michael Power Catholic High School St. Joseph High School
+St. Joseph High School
+York Humber High School Archbishop Romero Catholic Secondary School (York Humber
+Archbishop Romero Catholic Secondary School (York Humber
+Bluevale Collegiate Institute
+Cameron Heights Collegiate Institute
+Eastwood Collegiate Institute
+Elmira District Secondary School
+Forest Heights Collegiate Institute
+Galt Collegiate Institute and Vocational School
+Glenview Park Secondary School
+Grand River Collegiate Institute
+Huron Heights Secondary School
+Jacob Hespeler Secondary School
+Kitchener-Waterloo Collegiate and Vocational School (KCI)
+Preston High School
+Sir John A. Macdonald Secondary School
+Southwood Secondary School
+Waterloo Collegiate Institute
+Waterloo-Oxford District Secondary School
+Monsignor Doyle Catholic Secondary School
+Resurrection Catholic Secondary School
+St. Benedict Catholic Secondary School
+St. David Catholic Secondary School
+St. Louis Adult & Continuing Education
+St. Mary's High School
+École secondaire Père-René-de-Galinée
+Centennial Collegiate Vocational Institute
+Centre Wellington District High School
+College Heights Secondary School
+Erin District High School
+Guelph Collegiate Vocational Institute
+John F. Ross Collegiate Vocational Institute
+Norwell District Secondary School
+Wellington Heights Secondary School
+Bishop Macdonell Catholic High School
+Our Lady of Lourdes Catholic High School
+St. James Catholic High School
+ACCESS Georgina District High School
+ACCESS Program Jefferson Community Learning Centre
+Alexander Mackenzie High School
+Aurora High School
+Bayview Secondary School
+Bill Crothers Secondary School
+Bur Oak Secondary School
+Dr. G.W. Williams Secondary School
+Dr. John M. Denison Secondary School
+Emily Carr Secondary School
+Huron Heights Secondary School
+Keswick High School
+King City Secondary School
+Langstaff Secondary School
+Maple High School
+Markham District High School
+Markville Secondary School
+Middlefield Collegiate Institute
+Milliken Mills High School
+Newmarket High School
+Pierre Elliott Trudeau High School
+Richmond Green Secondary School
+Richmond Hill Adult Community Learning School
+Richmond Hill High School
+Sir William Mulock Secondary School
+Stephen Lewis Secondary School
+Stouffville District Secondary School
+Sutton District High School
+Thornhill Secondary School
+Thornlea Secondary School
+Tommy Douglas Secondary School
+Unionville High School
+Vaughan Secondary School
+Westmount Collegiate Institute
+Woodbridge College
+Cardinal Carter Catholic High School
+Our Lady of the Lake Catholic College School
+St. Joan of Arc Catholic High School
+Brother André Catholic High School
+Father Michael McGivney Catholic Academy
+St. Augustine Catholic High School
+Sacred Heart Catholic High School
+St. Theresa of Lisieux Catholic High School
+St. Elizabeth Catholic High School
+St. Luke Catholic Learning Centre
+St. Robert Catholic High School
+Father Bressani Catholic High School
+Holy Cross Catholic Academy
+St. Jean de Brebeuf Catholic High School
+Jean Vanier Catholic High School
+St. Maximillian Kolbe Catholic High School
+École secondaire catholique Renaissance
+École secondaire Norval-Morisseau

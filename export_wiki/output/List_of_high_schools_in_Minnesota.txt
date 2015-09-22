@@ -1,0 +1,505 @@
+Aitkin High School
+Hill City High School
+McGregor High School
+Andover High School
+Anoka High School
+Blaine High School
+Bridges School
+Centennial High School
+Columbia Heights High School
+Coon Rapids High School
+Fridley High School
+Meadow Creek Christian School
+PACT Charter School
+Paladin Career and Technical High School
+Saint Francis High School
+Saint Francis Christian School
+Spring Lake Park High School
+Totino-Grace High School
+Woodcrest Baptist Academy
+Detroit Lakes High School
+Frazee High School
+Lake Park Audubon Secondary School
+Bemidji High School
+Blackduck High School
+Red Lake High School
+Foley High School
+Sauk Rapids-Rice High School
+Clinton-Graceville-Beardsley High School
+Ortonville High School
+Immanuel Lutheran School
+Lake Crystal Wellcome Memorial Secondary School
+Loyola Catholic School
+Mankato East High School
+Mankato West High School
+Maple River High School
+RiverBend Academy Charter School
+St. Clair High School
+Cathedral High School
+Comfrey Public School
+New Ulm High School
+St. Mary's High School
+Sleepy Eye High School
+Springfield High School
+Barnum High School
+Carlton High School
+Cloquet High School
+Cromwell-Wright High School
+Lincoln High School
+Moose Lake High School
+Wrenshall High School
+Central High School
+Chanhassen High School
+Chaska High School
+Lutheran High School
+Southwest Christian High School
+Waconia Senior School
+Watertown Senior School
+Holy Family Catholic High School
+Cass Lake-Bena Secondary School
+Northland Secondary School
+Pillager Area Charter School
+Pillager Secondary School
+Pine River-Backus Secondary School
+Walker-Hackensack-Akeley Secondary School
+MACCRAY High School
+Montevideo Senior School
+Chisago Lakes Baptist School
+Chisago Lakes High School
+North Branch Area High School
+Rush City Secondary School
+Barnesville Secondary School
+Dilworth-Glyndon-Felton Senior School
+Hawley Secondary School
+Moorhead High School
+Ulen-Hitterdal Secondary School
+Park Christian School (Minnesota)
+Bagley High School
+Clearbrook-Gonvick Secondary School
+Cook County Senior School
+Mountain Lake Christian School
+Mountain Lake Public School
+Red Rock Central Elementary ISD 2884
+Westbrook-Walnut Grove Senior School
+Windom Senior School
+Brainerd High School
+Crosby-Ironton Secondary School
+Lake Region Christian School
+Pequot Lakes High School
+Apple Valley High School
+Burnsville High School
+Christian Life School
+Eagan High School
+Eastview High School
+Farmington High School
+First Baptist School
+Hastings High School
+Lakeville North High School
+Lakeville South High School
+Randolph Secondary School
+Rosemount High School
+School of Environmental Studies
+St. Croix Lutheran High School
+Saint Thomas Academy
+Henry Sibley High School
+Simley High School
+Convent of the Visitation
+Trinity School at River Ridge. Eagan
+Hayfield High School
+Kasson-Mantorville High School
+Triton Senior High School
+Brandon High School
+Evansville High School
+Jefferson High School
+Lakes Area Charter School
+Osakis Secondary School
+Blue Earth Area High School
+Elmore Academy
+United South Central Senior School
+Fillmore Central High School
+Kingsland Senior School
+Lanesboro Secondary School
+Mabel-Canton Secondary School
+Rushford-Peterson Senior School
+Albert Lea High School
+Alden-Conger High School
+Glenville-Emmons Senior School
+Cannon Falls Area Schools
+Goodhue Secondary School
+Kenyon-Wanamingo High School
+Pine Island High School
+Red Wing High School
+Zumbrota-Mazeppa Senior School
+Ashby High School
+Herman Secondary School
+West Central Area Secondary School
+Ascension Academy Charter School
+Academy of Holy Angels
+Armstrong Senior High School
+Arts High School
+Benilde-St. Margaret's School
+Bethany Academy
+The Blake School
+Bloomington Jefferson High School
+Bloomington Kennedy High School
+Breck School
+Broadway Education Place School
+Brooklyn Center High School
+Calvin Christian High School
+Center for Training & Careers
+Champlin Park High School
+Communication Arts Senior High School
+Concordia Academy
+De La Salle High School
+Eagle Ridge Academy
+Eden Prairie High School
+Edina High School
+Edison High School
+El Colegio Charter School
+Excel High School (http://www.excelhighschool.com)
+Four Directions Charter School
+Fourth Baptist Christian School
+Grace Academy
+Groves Academy
+Heart of the Earth Secondary School
+Patrick Henry High School
+Hopkins High School
+Heritage Christian Academy
+Insight School of Minnesota (http://www.insightmn.net)
+Icall School
+The International School of Minnesota
+Lincoln International High School
+Mainstreet School of Performing Arts
+Maple Grove Senior High School
+Maranatha Christian Academy
+Menlo Park School
+Minnehaha Academy
+Minnesota Transitions Charter School
+Minnetonka Christian Academy
+Minnetonka High School
+Mound-Westonka Secondary School
+North Community High School]]
+Northgate Academy (http://www.northgateacademy.com)
+Orono High School
+Osseo Senior High School
+Park Center Senior High School
+Pease Academy
+Providence Academy
+Richfield High School
+Robbinsdale Armstrong High School
+Robbinsdale Cooper High School
+Rockford High School
+Rogers High School
+Roosevelt High School
+Sage Academy Charter School
+St. Anthony Village High School*
+Saint Louis Park High School
+South High School
+Southwest High School
+Volunteers of America High School
+Washburn High School
+Wayzata High School
+Watershed High School
+West Lutheran High School
+Caledonia High School
+Houston High School
+La Crescent Senior High School
+Spring Grove Secondary School
+Laporte Secondary School
+Nevis Secondary School
+Park Rapids Senior School
+Braham Area High School
+Cambridge-Isanti High School
+Cambridge Christian School
+Bigfork High School
+Deer River Secondary School
+Grand Rapids High School
+Greenway High School
+Nashwauk Secondary School
+Thistledew School
+Jackson County Central Senior School
+Heron Lake-Okabena High School
+Mora Secondary School
+Ogilvie High School
+New London-Spicer Senior School
+Willmar High School
+Kittson Central Secondary School
+Lancaster High School
+Tri-County Secondary School
+Falls High School
+Indus Secondary School
+Littlefork-Big Falls Secondary School
+Northome Secondary School
+Dawson-Boyd Secondary School
+Lac Qui Parle Valley Secondary School
+Kelley Secondary School
+Two Harbors Secondary School
+Lake of the Woods School
+Cleveland High School
+Le Sueur-Henderson Secondary School
+Tri-City United High School
+Waterville-Elysian-Morristown High School
+Lincoln Secondary School
+RTR High School
+Lakeview Secondary School
+Marshall Senior High School
+Minneota Secondary School
+Tracy High School
+Yankton Country Charter School
+Mahnomen Secondary School
+Waubun Secondary School
+Marshall County Central High School
+Grygla Secondary School
+Stephen-Argyle Central High School
+Warren-Alvarado-Oslo Secondary School
+Fairmont Area High School
+Granada-Huntley-East Chain Schools
+Martin Luther High School
+Martin County West Schools
+Truman High School
+Glencoe-Silver Lake Senior School
+Holy Trinity High School
+Hutchinson High School
+Lester Prairie Secondary School
+Maplewood Academy
+A.C.G.C. Secondary School
+Eden Valley Secondary School
+Litchfield Senior High School
+Faith Christian School
+Isle Secondary School
+Milaca Secondary School
+Onamia Secondary School
+Princeton High School
+Healy Secondary School
+Little Falls Community High School
+Royalton Secondary School
+Swanville Secondary School
+Upsala Secondary School
+Austin High School
+Grand Meadow Secondary School
+Leroy-Ostrander High School
+Lyle Secondary School
+Pacelli High School
+Southland High School
+Fulda High School
+Murray County Central High School
+Nicollet Secondary School
+St. Peter High School
+Minnesota Valley Lutheran High School
+Adrian Secondary School
+Ellsworth Secondary School
+Worthington Senior High School
+Ada-Borup Secondary School
+Norman County East High School
+Norman County West Secondary School
+Byron High School
+Century High School
+Chosen Valley High School
+Dover-Eyota Secondary School
+Faith Christian School
+Lourdes High School
+John Marshall High School
+Mayo High School
+Schaeffer Academy
+Stewartville Senior School
+Studio Academy Charter
+Minnesota Online High School
+Battle Lake High School
+Fergus Falls Senior High School
+Henning Secondary School
+Hillcrest Lutheran Academy
+New York Mills Secondary School
+Parkers Prairie Secondary School
+Pelican Rapids Secondary School
+Perham High School
+Underwood Secondary School
+Goodridge Secondary School
+Lincoln Senior School
+East Central High School
+Hinckley-Finlayson High School
+Pine City High School
+Willow River High School
+Edgerton Secondary School
+Pipestone Area High School
+Southwest Minnesota Christian High School
+Climax Secondary School
+Crookston High School
+East Grand Forks Senior High School
+Fertile-Beltrami Secondary School
+Fosston Secondary School
+Sacred Heart High School
+Win-E-Mac Secondary School
+Minnewaska Secondary School
+Academy for Sciences and Agriculture High School
+Arlington Senior High School
+Avalon School
+Calvin Academy
+Calvin Christian High School
+Central Senior High School
+City Academy High School
+Community of Peace Academy
+Como Park Senior High School
+Concordia Academy
+Cretin-Derham Hall High School
+Fairview Alternative High School
+Gordon Parks High School
+Great River Charter Montessori School
+Harding Senior High School
+High School for Recording Arts
+Highland Park High School (Minnesota)
+Hill-Murray School
+Hmong Academy
+Humboldt Senior High School
+Irondale Senior High School
+Jennings Experiential High School
+Johnson Senior High School
+Liberty Classical Academy
+Minnesota Business Academy Charter
+Mounds Park Academy
+Mounds View Senior High School
+North High School
+Mounds Park Academy
+Prince of Peace Academy (K-8 School)
+Saint Agnes High School
+Saint Bernard's High School
+St. Odilia School
+St. Paul Academy and Summit School
+Skills for Tomorrow Charter School
+White Bear Lake Area High School
+Lafayette High School
+Oklee Secondary School
+Cedar Mountain Secondary School
+Redwood Valley High School
+Red Rock Central ISD 2884
+Vesta Secondary School
+Wabasso Secondary School
+Redwood Valley Middle School
+BOLD Senior School
+Renville County West Senior School
+Bethlehem Academy
+Faribault High School
+Minnesota State Academy for the Blind
+Minnesota State Academy for the Deaf
+Northfield High School
+Arcadia Charter School
+Hills-Beaver Creek Secondary School
+Luverne Senior High School
+Badger Community School
+Greenbush-Middle River High School
+Roseau Secondary School
+Warroad Senior School
+Albrook Secondary School
+Babbitt Secondary School
+Central High School
+Cherry Secondary School
+Chisholm High School
+Cook Secondary School
+Cotton Secondary School
+Denfeld High School
+East High School
+East Range Academy of Technology and Science
+Eveleth-Gilbert Senior School
+Floodwood Secondary School
+Harbor City International School
+Hermantown Senior School
+Hibbing Senior School
+Hibbing High School
+Lake Superior High School
+Lakeview Christian Academy
+The Marshall School
+Memorial Secondary School
+Mesabi East High School
+Mountain Iron-Buhl Secondary School
+Orr Secondary School
+Proctor High School
+Tower-Soudan Secondary School
+Vermilion Country School
+Virginia High School
+Belle Plaine High School
+Jordan High School
+New Prague High School
+Prior Lake Senior School
+Shakopee High School
+Becker High School
+Big Lake High School
+Elk River High School
+Ivan Sand Community School
+Rivers Christian Academy
+Spectrum High School
+Zimmerman High School
+G.F.W. Senior School
+Minnesota New Country School
+Sibley East High School
+Albany Senior School
+Apollo High School
+Belgrade-Brooten-Elrosa High School
+Cathedral High School/John XXIII
+Holdingford Secondary School
+Kimball High School
+Melrose High School
+Paynesville Senior School
+Rocori High School
+St. John's Preparatory School
+Sartell High School
+Sauk Centre Secondary School
+Technical Senior School
+Blooming Prairie High School
+Medford Secondary School
+Owatonna Senior High School
+Chokio-Alberta High School
+Hancock Secondary School
+Morris Area Secondary School
+Benson High School
+Kerkhoven-Murdock-Sunburg Secondary School
+Bertha-Hewitt High School
+Browerville High School
+Eagle Valley Secondary School
+Long Prairie-Grey Senior School
+Staples-Motley Senior School
+Wheaton High School
+Lincoln Secondary School
+Plainview/Elgin/Millville
+River Valley Academy
+Wabasha-Kellogg Secondary School
+Menahga Secondary School
+Sebeka Secondary School
+Verndale Secondary School
+Wadena-Deer Creek Senior High School
+Janesville-Waldorf-Pemberton Senior School
+NRHEG High School
+Waseca Senior High School
+Century Junior High School
+East Ridge High School
+Forest Lake Area Senior High School
+Hope Christian Academy
+Mahtomedi Senior High School
+New Life Academy
+Park High School
+Southwest Junior High School
+St. Croix Preparatory Academy
+Stillwater Senior High School
+Tartan Senior High School
+Woodbury Senior High School
+Butterfield-Odin Schools
+Madelia Secondary School
+St. James High School
+Breckenridge Senior School
+Campbell-Tintah Secondary School
+Rothsay Secondary School
+Cotter High School
+Hope Lutheran High School
+Lewiston-Altura Secondary School
+Riverway Secondary School
+St. Charles High School
+Winona Senior High School
+Annandale High School
+Buffalo High School
+Dassel-Cokato Senior School
+Delano High School
+Howard Lake-Waverly-Winsted Secondary School
+Maple Lake Secondary School
+Monticello High School
+St. Michael-Albertville High School
+Canby High School
+ECHO Charter School
+Yellow Medicine East High School
